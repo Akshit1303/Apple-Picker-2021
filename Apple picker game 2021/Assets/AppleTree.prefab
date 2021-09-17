@@ -105,7 +105,7 @@ GameObject:
   m_Component:
   - component: {fileID: 284573135505419310}
   - component: {fileID: 284573135505419311}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AppleTree
   m_TagString: Untagged
   m_Icon: {fileID: 0}
